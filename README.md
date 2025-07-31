@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Welcome to my GitHub profile!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50)
 
 👋 Hello 👋
 I’m a student developer working with various programming languages.  
