@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=radical&height=250&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50)
 
 👋 Hello 👋
+
 I’m a junior developer with an interest in AI/LLM and machine learning projects.
 I’m currently enhancing my skills in data analysis, modeling and backend development.
 I continuously learn new technologies to improve my development skills.
 
 ---
 
-## 🛠️ Currently Learning Tech
+## Currently Learning Tech
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,7 +29,7 @@ I continuously learn new technologies to improve my development skills.
 
 ---
 
-## 🚀 Projects
+## Projects
 - **Personalized Blood Glucose Prediction & Diet Recommendation System**
   - Predicts pediatric diabetes blood glucose and recommends diet plans 
   - Recommendation system built with Python
@@ -36,11 +37,11 @@ I continuously learn new technologies to improve my development skills.
 
 ---
 
-## 📊 GitHub Stats
-![KIMjjjjjjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMjjjjjjjj&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMjjjjjjjj&layout=compact&theme=radical&hide_border=true)
+## GitHub Stats
+![KIMjjjjjjjj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KIMjjjjjjjj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KIMjjjjjjjj&theme=radical&line_height=40&hide=css)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: jin432101@gmail.com
