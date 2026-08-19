@@ -32,8 +32,3 @@ I continuously learn new technologies to improve my development skills.
 ## GitHub Stats
 ![KIMjjjjjjjj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KIMjjjjjjjj&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KIMjjjjjjjj&theme=radical)
-
----
-
-## Contact Me
-- Email: jin432101@gmail.com
